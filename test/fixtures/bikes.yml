@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  model: MyString
+  color: MyString
+  location: MyString
+  rating: 1
+  is_available: false
+
+two:
+  model: MyString
+  color: MyString
+  location: MyString
+  rating: 1
+  is_available: false
